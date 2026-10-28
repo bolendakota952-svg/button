@@ -1,14 +1,15 @@
 body{
     background-color: red;
 }
-button{
 
+button{
 background-color: black;
 padding: 10px;
-border: 2px;
-color: solid white ;
+border: 2px solid white;
 border-radius: 20px;
 height: 30px;
 width: 80px;
-color green;
+color: green;
+font-size: 15px;
+cursor: pointer;
 }
